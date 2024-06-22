@@ -1,8 +1,8 @@
----
+----
 title: npx
 section: 1
 description: Run a command from a local or remote npm package
----
+----
 
 ### Synopsis
 
